@@ -1,7 +1,7 @@
 # Unity2DTraining
 Unity2d的学习项目
   ----
->* [创建骨骼动画]
+>* [创建骨骼动画](./Character2dBone)
 >>* [Unity2019.3最新2D/骨骼/IK/动画/换装/全面指南！](https://unity.cn/projects/unity2019-3zui-xin-2d-gu-ge-ik-dong-hua-huan-zhuang-quan-mian-zhi-nan)
 >>>* [1.Unity最新2D功能系列入门教程0.Introduction 骨骼动画和IK](https://www.bilibili.com/video/BV1E7411c7td/?spm_id_from=333.788.recommend_more_video.1)
 >>>* [2.Unity最新2D功能系列入门教程1.Skeleton 骨骼绑定](https://www.bilibili.com/video/BV1w7411F7qb/?spm_id_from=333.788.recommend_more_video.0)
